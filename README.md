@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jobin007
-- 👀 I’m interested in Server Administration
-- 🌱 I’m currently C,Java,Python.
+- 🌱 I’m currently studying C,Java,Python.
 - 💞️ I’m looking to collaborate to everyone who are starting programming.
 - 📫 Ping me on insta its.me.jobin
 
