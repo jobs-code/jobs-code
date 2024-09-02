@@ -42,14 +42,9 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 <!-- GitHub Stats for Light Mode -->
 ![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1#gh-light-mode-only)
 
-<!-- GitHub Stats for Dark Mode -->
-![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1#gh-dark-mode-only)
-
 <!-- Top Languages for Light Mode -->
 ![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2#gh-light-mode-only)
 
-<!-- Top Languages for Dark Mode -->
-![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2#gh-dark-mode-only)
 
 ### Greeting
 
