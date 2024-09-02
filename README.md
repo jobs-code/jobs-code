@@ -38,7 +38,9 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jobscode/jobscode/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+
 
 ###
 
