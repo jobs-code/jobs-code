@@ -43,17 +43,19 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 ###
 
 <div align="center">
+
   <!-- GitHub Stats for Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1#gh-light-mode-only" height="150" alt="stats graph" />
+  ![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1#gh-light-mode-only)
 
   <!-- GitHub Stats for Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1#gh-dark-mode-only" height="150" alt="stats graph" />
+  ![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=jobscode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1#gh-dark-mode-only)
 
   <!-- Top Languages for Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2#gh-light-mode-only" height="150" alt="languages graph" />
+  ![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2#gh-light-mode-only)
 
   <!-- Top Languages for Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2#gh-dark-mode-only" height="150" alt="languages graph" />
+  ![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs?username=jobscode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2#gh-dark-mode-only)
+
 </div>
 
 
