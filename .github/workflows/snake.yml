@@ -1,12 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every day at midnight
   schedule:
     - cron: "0 0 * * *"
-  # Run manually from the Actions tab
   workflow_dispatch:
-  # Run automatically when pushing to the repository
   push:
     branches:
       - main
@@ -19,14 +16,21 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
 
-      - name: Commit and Push the generated SVG
+      - name: Generate Snake SVG (Dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push the generated SVGs
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
