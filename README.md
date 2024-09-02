@@ -30,8 +30,8 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 
 ### GitHub Snake Animation
 
-![GitHub Snake Light](https://github.com/jobscode/jobscode/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/jobscode/jobscode/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ### Profile Counter
 
