@@ -50,14 +50,8 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 --->
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="400" />
+  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="600" />
 </div>
-
-
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
