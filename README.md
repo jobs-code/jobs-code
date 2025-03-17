@@ -3,10 +3,6 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5MXRraGg1cG9zOHgzN2UxMm1mZ2xia21hNm1oODVyMW4wd29mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,6 +22,14 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="600" />
+</div>
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5MXRraGg1cG9zOHgzN2UxMm1mZ2xia21hNm1oODVyMW4wd29mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif"  />
 
 ###
 
@@ -49,9 +53,7 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 </div>
 --->
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="600" />
-</div>
+
 
 ###
 
