@@ -26,8 +26,8 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 ###
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="500" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5MXRraGg1cG9zOHgzN2UxMm1mZ2xia21hNm1oODVyMW4wd29mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif" height="150" />
+  <img src="https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma" width="600" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo5MXRraGg1cG9zOHgzN2UxMm1mZ2xia21hNm1oODVyMW4wd29mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif" width = "200" />
 </div>
 
 ###
