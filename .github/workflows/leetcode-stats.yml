@@ -1,0 +1,15 @@
+name: Update LeetCode Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: sobuj53/leetcode-stats-box@latest
+        with:
+          username: "jobin007"
+      - run: git add .
+      - run: git commit -m "Updated LeetCode stats" || echo "No changes to commit"
+      - run: git push
