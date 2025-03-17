@@ -49,7 +49,7 @@ Hi there 👋<br><br>I'm Jobs, an avid explorer in the world of technology! 🚀
 </div>
 --->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/<your_leetcode_username>?theme=dark&font=Karma&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jobs_code?theme=dark&font=Karma&ext=activity)
 
 
 ###
